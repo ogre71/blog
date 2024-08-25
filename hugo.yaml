@@ -8,3 +8,5 @@ menu:
       name: posts
       url: /posts/
       weight: 10
+params: 
+  ShowCodeCopyButtons: true 

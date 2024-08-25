@@ -4,9 +4,9 @@ date = 2024-08-04T21:20:13-04:00
 draft = false
 +++
 
-I see colleagues and the world at large using OneNote or something similar to do the same thing that I do with Hugo. I try to be different from humanity at large in one important way. I try to improve. 
+I don't take notes with OneNote. I take notes in markdown, and use Hugo to render the markdown.
 
-If I take my thoughts and notes and just plop them down into OneNote, there they are, mission accomplished.
+If I were to take notes with OneNote, I become dependent on OneNote, and am constrained to use one Note to share them. 
 
 But... if I plop them down into Hugo, I'm not done. I'm just beginning. 
 
